@@ -3,6 +3,7 @@ function soma(num1,num2){
 }
 
 console.log(soma(20,30));
+
 function areaQuadrado(lado) {
     return lado * lado
 }
