@@ -24,7 +24,7 @@ let estados=[
 ];
 
 let i=0;
-while(i<5){
+while(i<estados.length){
 console.log(i);
 console.log(estados[i]);
 i=i+1;
