@@ -20,5 +20,5 @@
 // console.log(media(4,6,8))
 
 let estados=[
-"PR","RS","AC","BA","SC","SP","RJ","MG","MT","MS","ES","RR","RO","PA","CE","SE","PB","RN","PI","TO","AL","MA","PE","GO","AP","AM","DF"
+"AC","AL","AM","AP","BA","CE","ES","GO","MA","MT","MS","MG","PA","PB","PR","PE","PI","RJ","RN","RS","RO","RR","SC","SP","SE","TO","DF"
 ];
